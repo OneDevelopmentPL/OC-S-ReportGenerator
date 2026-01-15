@@ -4,6 +4,6 @@ Helper for OpenCore-Simplify to generate report for your hardware on any Linux d
 # Usage
 To run this script, use:
 ```bash
-sudo python3 generate
-
-
+sudo python3 generate_report.py
+```
+MAKE SURE TO RUN It WITH SUDO!
